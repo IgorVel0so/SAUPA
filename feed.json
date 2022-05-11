@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "SAUPÁgueda",
     "description": "",
-    "home_page_url": "https://SAUPA.pt",
-    "feed_url": "https://SAUPA.pt/feed.json",
+    "home_page_url": "https://saupa.pt",
+    "feed_url": "https://saupa.pt/feed.json",
     "user_comment": "",
     "author": {
         "name": "SAUPÁgueda"
     },
     "items": [
         {
-            "id": "https://SAUPA.pt/donativos/",
-            "url": "https://SAUPA.pt/donativos/",
+            "id": "https://saupa.pt/donativos/",
+            "url": "https://saupa.pt/donativos/",
             "title": "Donativos",
             "author": {
                 "name": "SAUPÁgueda"
@@ -22,8 +22,8 @@
             "date_modified": "2022-05-11T01:04:24+01:00"
         },
         {
-            "id": "https://SAUPA.pt/voluntariado/",
-            "url": "https://SAUPA.pt/voluntariado/",
+            "id": "https://saupa.pt/voluntariado/",
+            "url": "https://saupa.pt/voluntariado/",
             "title": "Voluntariado",
             "author": {
                 "name": "SAUPÁgueda"
@@ -34,8 +34,8 @@
             "date_modified": "2022-05-11T01:04:17+01:00"
         },
         {
-            "id": "https://SAUPA.pt/historia/",
-            "url": "https://SAUPA.pt/historia/",
+            "id": "https://saupa.pt/historia/",
+            "url": "https://saupa.pt/historia/",
             "title": "História",
             "author": {
                 "name": "SAUPÁgueda"
@@ -46,8 +46,8 @@
             "date_modified": "2022-05-11T01:01:54+01:00"
         },
         {
-            "id": "https://SAUPA.pt/missao/",
-            "url": "https://SAUPA.pt/missao/",
+            "id": "https://saupa.pt/missao/",
+            "url": "https://saupa.pt/missao/",
             "title": "Missão",
             "author": {
                 "name": "SAUPÁgueda"

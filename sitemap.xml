@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://SAUPA.pt/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://saupa.pt/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://SAUPA.pt/</loc>
+<loc>https://saupa.pt/</loc>
 </url>
 <url>
-<loc>https://SAUPA.pt/donativos/</loc>
+<loc>https://saupa.pt/donativos/</loc>
 <lastmod>2022-05-11T01:04:24+01:00</lastmod>
 </url>
 <url>
-<loc>https://SAUPA.pt/historia/</loc>
+<loc>https://saupa.pt/historia/</loc>
 <lastmod>2022-05-11T01:01:54+01:00</lastmod>
 </url>
 <url>
-<loc>https://SAUPA.pt/missao/</loc>
+<loc>https://saupa.pt/missao/</loc>
 <lastmod>2022-05-11T00:58:39+01:00</lastmod>
 </url>
 <url>
-<loc>https://SAUPA.pt/voluntariado/</loc>
+<loc>https://saupa.pt/voluntariado/</loc>
 <lastmod>2022-05-11T01:04:17+01:00</lastmod>
 </url>
 </urlset>

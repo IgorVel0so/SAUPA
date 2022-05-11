@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>SAUPÁgueda</title>
-    <link href="https://SAUPA.pt/feed.xml" rel="self" />
-    <link href="https://SAUPA.pt" />
+    <link href="https://saupa.pt/feed.xml" rel="self" />
+    <link href="https://saupa.pt" />
     <updated>2022-05-11T01:04:24+01:00</updated>
     <author>
         <name>SAUPÁgueda</name>
     </author>
-    <id>https://SAUPA.pt</id>
+    <id>https://saupa.pt</id>
 
     <entry>
         <title>Donativos</title>
         <author>
             <name>SAUPÁgueda</name>
         </author>
-        <link href="https://SAUPA.pt/donativos/"/>
-        <id>https://SAUPA.pt/donativos/</id>
+        <link href="https://saupa.pt/donativos/"/>
+        <id>https://saupa.pt/donativos/</id>
 
         <updated>2022-05-11T01:04:24+01:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>SAUPÁgueda</name>
         </author>
-        <link href="https://SAUPA.pt/voluntariado/"/>
-        <id>https://SAUPA.pt/voluntariado/</id>
+        <link href="https://saupa.pt/voluntariado/"/>
+        <id>https://saupa.pt/voluntariado/</id>
 
         <updated>2022-05-11T01:04:17+01:00</updated>
             <summary></summary>
@@ -38,8 +38,8 @@
         <author>
             <name>SAUPÁgueda</name>
         </author>
-        <link href="https://SAUPA.pt/historia/"/>
-        <id>https://SAUPA.pt/historia/</id>
+        <link href="https://saupa.pt/historia/"/>
+        <id>https://saupa.pt/historia/</id>
 
         <updated>2022-05-11T01:01:54+01:00</updated>
             <summary></summary>
@@ -50,8 +50,8 @@
         <author>
             <name>SAUPÁgueda</name>
         </author>
-        <link href="https://SAUPA.pt/missao/"/>
-        <id>https://SAUPA.pt/missao/</id>
+        <link href="https://saupa.pt/missao/"/>
+        <id>https://saupa.pt/missao/</id>
 
         <updated>2022-05-11T00:58:39+01:00</updated>
             <summary></summary>
