@@ -1,61 +1,25 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "SAUPÁgueda",
+    "title": "saupa",
     "description": "",
     "home_page_url": "https://saupa.pt",
     "feed_url": "https://saupa.pt/feed.json",
     "user_comment": "",
     "author": {
-        "name": "SAUPÁgueda"
+        "name": "saupa"
     },
     "items": [
         {
-            "id": "https://saupa.pt/donativos/",
-            "url": "https://saupa.pt/donativos/",
-            "title": "Donativos",
-            "author": {
-                "name": "SAUPÁgueda"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-11T01:04:24+01:00",
-            "date_modified": "2022-05-11T01:04:24+01:00"
-        },
-        {
-            "id": "https://saupa.pt/voluntariado/",
-            "url": "https://saupa.pt/voluntariado/",
-            "title": "Voluntariado",
-            "author": {
-                "name": "SAUPÁgueda"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-11T01:04:17+01:00",
-            "date_modified": "2022-05-11T01:04:17+01:00"
-        },
-        {
-            "id": "https://saupa.pt/historia/",
-            "url": "https://saupa.pt/historia/",
-            "title": "História",
-            "author": {
-                "name": "SAUPÁgueda"
-            },
-            "tags": [
-            ],
-            "date_published": "2022-05-11T01:01:54+01:00",
-            "date_modified": "2022-05-11T01:01:54+01:00"
-        },
-        {
-            "id": "https://saupa.pt/missao/",
-            "url": "https://saupa.pt/missao/",
+            "id": "https://saupa.pt/missao.html",
+            "url": "https://saupa.pt/missao.html",
             "title": "Missão",
             "author": {
-                "name": "SAUPÁgueda"
+                "name": "saupa"
             },
             "tags": [
             ],
-            "date_published": "2022-05-11T00:58:39+01:00",
-            "date_modified": "2022-05-11T00:58:39+01:00"
+            "date_published": "2022-05-11T01:54:15+01:00",
+            "date_modified": "2022-05-11T01:54:15+01:00"
         }
     ]
 }

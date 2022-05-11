@@ -1,59 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>SAUPÁgueda</title>
+    <title>saupa</title>
     <link href="https://saupa.pt/feed.xml" rel="self" />
     <link href="https://saupa.pt" />
-    <updated>2022-05-11T01:04:24+01:00</updated>
+    <updated>2022-05-11T01:54:15+01:00</updated>
     <author>
-        <name>SAUPÁgueda</name>
+        <name>saupa</name>
     </author>
     <id>https://saupa.pt</id>
 
     <entry>
-        <title>Donativos</title>
-        <author>
-            <name>SAUPÁgueda</name>
-        </author>
-        <link href="https://saupa.pt/donativos/"/>
-        <id>https://saupa.pt/donativos/</id>
-
-        <updated>2022-05-11T01:04:24+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>Voluntariado</title>
-        <author>
-            <name>SAUPÁgueda</name>
-        </author>
-        <link href="https://saupa.pt/voluntariado/"/>
-        <id>https://saupa.pt/voluntariado/</id>
-
-        <updated>2022-05-11T01:04:17+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>História</title>
-        <author>
-            <name>SAUPÁgueda</name>
-        </author>
-        <link href="https://saupa.pt/historia/"/>
-        <id>https://saupa.pt/historia/</id>
-
-        <updated>2022-05-11T01:01:54+01:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
         <title>Missão</title>
         <author>
-            <name>SAUPÁgueda</name>
+            <name>saupa</name>
         </author>
-        <link href="https://saupa.pt/missao/"/>
-        <id>https://saupa.pt/missao/</id>
+        <link href="https://saupa.pt/missao.html"/>
+        <id>https://saupa.pt/missao.html</id>
 
-        <updated>2022-05-11T00:58:39+01:00</updated>
+        <updated>2022-05-11T01:54:15+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
