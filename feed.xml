@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SAUPÁgueda</title>
+    <link href="https://SAUPA.pt/feed.xml" rel="self" />
+    <link href="https://SAUPA.pt" />
+    <updated>2022-05-11T01:04:24+01:00</updated>
+    <author>
+        <name>SAUPÁgueda</name>
+    </author>
+    <id>https://SAUPA.pt</id>
+
+    <entry>
+        <title>Donativos</title>
+        <author>
+            <name>SAUPÁgueda</name>
+        </author>
+        <link href="https://SAUPA.pt/donativos/"/>
+        <id>https://SAUPA.pt/donativos/</id>
+
+        <updated>2022-05-11T01:04:24+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Voluntariado</title>
+        <author>
+            <name>SAUPÁgueda</name>
+        </author>
+        <link href="https://SAUPA.pt/voluntariado/"/>
+        <id>https://SAUPA.pt/voluntariado/</id>
+
+        <updated>2022-05-11T01:04:17+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>História</title>
+        <author>
+            <name>SAUPÁgueda</name>
+        </author>
+        <link href="https://SAUPA.pt/historia/"/>
+        <id>https://SAUPA.pt/historia/</id>
+
+        <updated>2022-05-11T01:01:54+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Missão</title>
+        <author>
+            <name>SAUPÁgueda</name>
+        </author>
+        <link href="https://SAUPA.pt/missao/"/>
+        <id>https://SAUPA.pt/missao/</id>
+
+        <updated>2022-05-11T00:58:39+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

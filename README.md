@@ -1,2 +1,0 @@
-# SAUPA
-Site SAUPA
